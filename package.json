@@ -1,18 +1,44 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@odczynflnpm/assumenda-adipisci-nulla",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "odczynFL",
   "license": "MIT",
+  "dependencies": {
+    "@lambrioanpm/tenetur-aut-fugiat": "^1.0.0",
+    "@odczynflnpm/alias-aperiam-accusamus": "^1.0.0",
+    "@odczynflnpm/exercitationem-molestiae-maxime": "^1.0.0",
+    "@odczynflnpm/hic-laboriosam-dolore": "^1.0.0",
+    "@odczynflnpm/iste-adipisci-sit": "^1.0.0",
+    "@odczynflnpm/quas-inventore-quam": "^1.0.0",
+    "@odczynflnpm/repellendus-modi-quas": "^1.0.0",
+    "@odczynflnpm/sequi-placeat-earum": "^1.0.0",
+    "@odczynflnpm/voluptas-odit-illum": "^1.0.0",
+    "@odczynflnpm/voluptatibus-blanditiis-non": "^1.0.0"
+  },
+  "keywords": [
+    "Promise",
+    "progress",
+    "telephone",
+    "functions",
+    "xterm",
+    "css variable",
+    "es2017",
+    "dotenv",
+    "es2018",
+    "set",
+    "negative zero",
+    "ES2018",
+    "tc39"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/odczynflnpm/assumenda-adipisci-nulla.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/odczynflnpm/assumenda-adipisci-nulla/#readme",
+  "bugs": {
+    "url": "https://github.com/odczynflnpm/assumenda-adipisci-nulla/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
